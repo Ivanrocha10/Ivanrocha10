@@ -13,4 +13,4 @@ Nice to meet you, my name is Ivan, but everyone calls me Aivan;<br>I am a 17 yea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrocha10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ivanrocha10&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ivanrocha10&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
