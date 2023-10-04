@@ -2,7 +2,7 @@
 
 Hello. All is well ?? <br>
 Nice to meet you, my name is Ivan, but everyone calls me Aivan. <br>
-I am currently 17 years old. <br>
+I am currently 18 years old. <br>
 I'm from Curitiba, Brazil. <br>
 I fell in love with programming, because it is something simple, yet complicated. Confused huh?? but only those who work in the area will understand. <br>
 I currently know HTML, CSS and JS, I'm still in the process of JavaScript, but there's little left to master it. My focus in the area would be more on the front-end, where I identified myself and knew it was for me. The back-end caught my attention, but I like something more visual. <br>
