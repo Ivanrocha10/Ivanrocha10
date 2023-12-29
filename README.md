@@ -74,11 +74,7 @@ Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me ch
 <a href="https://www.behance.net/AivanDerock" target="_blank"><img src='https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white'/></a>
 <a href="https://steamcommunity.com/id/AivanDerock/" target="_blank"><img src='https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white'/></a>
 
-<br>
-<br>
-
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Ivanrocha10&label=Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
