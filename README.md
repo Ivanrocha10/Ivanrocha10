@@ -4,7 +4,6 @@
 Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me chamam de Aivan. Atualmente tenho 18 anos. Sou de Curitiba/PR. Me apaixonei pela programação, porque é algo simples, porém complicado. Confuso né?? mas só quem trabalha na área vai entender. Atualmente conheço HTML, CSS e JS, ainda estou no processo de JavaScript, mas falta pouco para dominá-lo. Meu foco atualmente é no front-end, onde me identifiquei. Atualmente estou procurando meu primeiro emprego na área, enquanto não encontro, estou fazendo alguns freela. Acho que isso seria tudo sobre mim. Obrigado por ler e visitar meu perfil, estarei disponível quando necessário. tchau.</p>
 
 <br>
-<br>
 
 # 💻 Tech Stack:
 
