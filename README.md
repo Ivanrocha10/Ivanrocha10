@@ -19,7 +19,6 @@ Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me ch
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrocha10&theme=radical&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&line_height=20&text_bold=false&card_width=100)
 
 <br>
-<br>
 
 </div>
 
@@ -43,7 +42,6 @@ Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me ch
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
-<br>
 
 </div>
 
@@ -55,7 +53,6 @@ Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me ch
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
 <br>
 
 </div>
