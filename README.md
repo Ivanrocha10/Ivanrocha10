@@ -1,7 +1,19 @@
 # 🤟🏽 About Me:
 
 <p align='justify'>
-Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me chamam de Aivan. Atualmente tenho 18 anos. Sou de Curitiba/PR. Me apaixonei pela programação, porque é algo simples, porém complicado. Confuso né?? mas só quem trabalha na área vai entender. Atualmente conheço HTML, CSS e JS, ainda estou no processo de JavaScript, mas falta pouco para dominá-lo. Meu foco atualmente é no front-end, onde me identifiquei. Atualmente estou procurando meu primeiro emprego na área, enquanto não encontro, estou fazendo alguns freela. Acho que isso seria tudo sobre mim. Obrigado por ler e visitar meu perfil, estarei disponível quando necessário. tchau.</p>
+É um prazer conhecê-lo(a), meu nome é Ivan Rocha, mas todos me chamam de Aivan. Atualmente, tenho 18 anos e sou residente em Curitiba, Brasil.
+<br>
+<br>
+Estou em busca da minha primeira experiência profissional, tanto na área de programação web quanto em outros setores do mercado de trabalho.
+<br>
+<br>
+Possuo um sólido conhecimento em HTML, CSS, JavaScript e TypeScript, e atualmente estou aprofundando meus estudos em Git e GitHub na plataforma OneBitCode, onde também obtive formação nas demais tecnologias mencionadas. Além disso, possuo habilidades básicas em informática, com proficiência em Excel, Word e PowerPoint, e estou aprimorando meu conhecimento em redes de computadores através do curso administrado pelo professor Gustavo Guanabara na plataforma Curso em Vídeo.
+<br>
+<br>
+Minha paixão pelo mundo da tecnologia vai além da programação web; tenho interesse em expandir meus horizontes para áreas como redes de computadores e hardware. Meu objetivo é crescer de forma contínua e acompanhar a evolução dessas áreas.
+<br>
+<br>
+Agradeço por visitar meu perfil. Se tiver alguma dúvida, estarei à disposição. Até logo!</p>
 
 <br>
 
